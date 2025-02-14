@@ -43,9 +43,6 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://dev.to/latest blogs dynamically" target="blank">
-    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/40/000000/external-devto-community-for-developers-and-publishers-logo-bold-tal-revivo.png" />
-  </a>
   <a href="https://twitter.com/leetdaily_78" target="blank">
     <img src="https://img.icons8.com/color/40/000000/twitter--v1.png" />
   </a>
@@ -54,12 +51,6 @@
   </a>
   <a href="https://instagram.com/shivamsinghtomar78" target="blank">
     <img src="https://img.icons8.com/fluency/40/000000/instagram-new.png" />
-  </a>
-  <a href="https://medium.com/@shivamsinghtomar78" target="blank">
-    <img src="https://img.icons8.com/fluency/40/000000/medium-logo.png" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCmKHJ0WFlV935pCOHoEk-zQ" target="blank">
-    <img src="https://img.icons8.com/color/40/000000/youtube-play.png" />
   </a>
   <a href="https://www.leetcode.com/shivamsinghtomar78" target="blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" />
