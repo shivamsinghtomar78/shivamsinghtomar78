@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=500&lines=Machine+Learning+%7C+AI+%7C+GenAI+Developer;Passionate+about+AI+and+Problem-Solving;Building+ML+Solutions+for+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+AI+%7C+GenAI+Developer" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Passionate+about+AI+and+Problem-Solving" />
 </h3>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivamsinghtomar78&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsinghtomar78" />
