@@ -67,8 +67,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,python,java,spring,react,flask,mysql,postgres,git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>
   <img src="https://th.bing.com/th/id/OIP.DjmovUlO3lgpRU8LrI7lmAAAAA?rs=1&pid=ImgDetMain" alt="LangChain" width="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="120"/>
 </p>
-
 
 ---
 
