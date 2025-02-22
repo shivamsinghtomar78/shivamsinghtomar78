@@ -27,7 +27,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **Tele-Asha**  
+- 🔭 I’m currently working on **Medical Diagnosis using Ai**  
 - 🌱 I’m currently learning **LangChain & ML**  
 - 👯 I’m looking to collaborate on **ML & GenAI Projects**  
 - 🤝 I’m looking for help with **Generative AI**  
